@@ -1,3 +1,2 @@
 streamlit
-sklearn
-GaussianNB
+sklearn.naive_bayes
